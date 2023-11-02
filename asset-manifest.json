@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newsletter-nexus/static/css/main.ee194335.css",
+    "main.js": "/newsletter-nexus/static/js/main.3cdb5c00.js",
+    "index.html": "/newsletter-nexus/index.html",
+    "main.ee194335.css.map": "/newsletter-nexus/static/css/main.ee194335.css.map",
+    "main.3cdb5c00.js.map": "/newsletter-nexus/static/js/main.3cdb5c00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee194335.css",
+    "static/js/main.3cdb5c00.js"
+  ]
+}
